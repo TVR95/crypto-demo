@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crypto-demo/static/css/main.165d4ccf.chunk.css",
+    "main.js": "/crypto-demo/static/js/main.bf8e3de5.chunk.js",
+    "main.js.map": "/crypto-demo/static/js/main.bf8e3de5.chunk.js.map",
+    "runtime-main.js": "/crypto-demo/static/js/runtime-main.6ea3478a.js",
+    "runtime-main.js.map": "/crypto-demo/static/js/runtime-main.6ea3478a.js.map",
+    "static/js/2.de439a99.chunk.js": "/crypto-demo/static/js/2.de439a99.chunk.js",
+    "static/js/2.de439a99.chunk.js.map": "/crypto-demo/static/js/2.de439a99.chunk.js.map",
+    "index.html": "/crypto-demo/index.html",
+    "precache-manifest.7e1dd3c3d3d5d9f17ebd84c3774d6c1a.js": "/crypto-demo/precache-manifest.7e1dd3c3d3d5d9f17ebd84c3774d6c1a.js",
+    "service-worker.js": "/crypto-demo/service-worker.js",
+    "static/css/main.165d4ccf.chunk.css.map": "/crypto-demo/static/css/main.165d4ccf.chunk.css.map",
+    "static/js/2.de439a99.chunk.js.LICENSE": "/crypto-demo/static/js/2.de439a99.chunk.js.LICENSE",
+    "static/media/styles.css": "/crypto-demo/static/media/stanislaw-zarychta-5FWx5YNMxok-unsplash.2b0168d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ea3478a.js",
+    "static/js/2.de439a99.chunk.js",
+    "static/css/main.165d4ccf.chunk.css",
+    "static/js/main.bf8e3de5.chunk.js"
+  ]
+}
